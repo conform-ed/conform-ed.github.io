@@ -1,0 +1,13 @@
+# conform-ed
+
+> conform-ed is open-source tooling to build and verify conformance to digital-education standards (xAPI, QTI, LTI 1.3, Common Cartridge, OneRoster, CASE, CLR, Open Badges, Caliper, ELM / Europass European Digital Credentials, and more). It provides typed Zod contracts, a headless QTI delivery runtime, credential verification (including JAdES e-seals), and conformance runner images for engineers building or verifying ed-tech interoperability.
+
+## Documentation Sets
+
+- [Abridged documentation](https://conform-ed.github.io/llms-small.txt): a compact version of the documentation for conform-ed, with non-essential content removed
+- [Complete documentation](https://conform-ed.github.io/llms-full.txt): the full documentation for conform-ed
+
+## Notes
+
+- The complete documentation includes all content from the official documentation
+- The content is automatically generated from the same source as the official documentation
